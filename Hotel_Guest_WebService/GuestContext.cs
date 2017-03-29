@@ -10,6 +10,7 @@ namespace Hotel_Guest_WebService
         public GuestContext()
             : base("name=GuestContext")
         {
+            base.Configuration.ProxyCreationEnabled = false;
         }
 
         public virtual DbSet<Guest> Guest { get; set; }
