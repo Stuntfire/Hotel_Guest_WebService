@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_Guest_WebService", "Hotel_Guest_WebService\Hotel_Guest_WebService.csproj", "{F2390FD2-BB06-40F8-B11F-3271A77E8BA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel_Guest_WebService.Tests", "Hotel_Guest_WebService.Tests\Hotel_Guest_WebService.Tests.csproj", "{33DCBF54-9EA4-484C-9B60-72557781CCA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2390FD2-BB06-40F8-B11F-3271A77E8BA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2390FD2-BB06-40F8-B11F-3271A77E8BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2390FD2-BB06-40F8-B11F-3271A77E8BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2390FD2-BB06-40F8-B11F-3271A77E8BA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DCBF54-9EA4-484C-9B60-72557781CCA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DCBF54-9EA4-484C-9B60-72557781CCA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DCBF54-9EA4-484C-9B60-72557781CCA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DCBF54-9EA4-484C-9B60-72557781CCA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
